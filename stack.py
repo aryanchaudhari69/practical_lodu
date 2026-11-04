@@ -1,7 +1,7 @@
 undo_stack = []
 redo_stack = []
 
-document = " "
+document = ""
 
 while True:
     print("\n1. Make a Change")
